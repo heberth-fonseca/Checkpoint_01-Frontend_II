@@ -1,2 +1,8 @@
 # Checkpoint_01-Frontend_II
-Created with CodeSandbox
+
+- Integrantes
+
+* Heberth Fonseca
+* Walter Pina
+* Marcelo Bissolati
+* Ivy Vasquez
